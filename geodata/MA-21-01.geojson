@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PROJECTTYP": "New Road",
+        "PROJECTNO": "MA-21-01"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+                  [
+                     -90.969344325717046,
+                     30.210661552443383
+                  ],
+                  [
+                     -90.97044761899069,
+                     30.225268705773569
+                  ]
+            ]
+      }
+    }
+  ]
+}

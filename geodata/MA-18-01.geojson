@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PROJECTTYP": "Safety Widening",
+        "PROJECTNO": "MA-18-01"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -90.95467804935527,
+            30.28395822
+          ],
+          [
+            -90.9215241300667,
+            30.28419942
+          ]
+        ]
+      }
+    }
+  ]
+}

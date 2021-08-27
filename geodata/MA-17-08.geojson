@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8815765392262,
+          30.211695492398682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.90396462100877,
+          30.228891385445067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9088112625554,
+          30.233045344397873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.91194552963239,
+          30.23645844216527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.91522874077621,
+          30.24007284619084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.92084915151312,
+          30.24631744092698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.92397293220463,
+          30.24974822111796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.93060621220174,
+          30.25706897924584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9351918833637,
+          30.262118230506672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.94179246439472,
+          30.269459472635194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.95495035637722,
+          30.28396808630472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.96803511971889,
+          30.29843200835142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.97228174508056,
+          30.303086942234923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.97322509433253,
+          30.30414421153271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.97724584599628,
+          30.316693505423498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.97828255467749,
+          30.320466904373163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.97988887178873,
+          30.323645931974486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.98388306592364,
+          30.330439784701287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Airline Hwy Signal Sync",
+        "PROJECTTYP": "Signalization",
+        "PROJECTNO": "MA-17-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.98533525225689,
+          30.332926860079237
+        ]
+      }
+    }
+  ]
+}
