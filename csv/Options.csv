@@ -8,7 +8,7 @@ Author Email or Website,https://www.franklinassociates.com,Insert your email or 
 Author Code Credit,"<a href=""http://datavizforall.org"">DataVizForAll</a>","Appears in credits as ""View code by..."" (or leave blank)",,,...and Points
 Author Code Repo,https://github.com/JackDougherty/leaflet-maps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code by..."" (or leave blank)",,,...and Polylines
 Map Settings,,"For help, see tutorial in DataVizForAll.org      ------>",http://www.datavizforall.org/leaflet/with-google-sheets,,
-Basemap Tiles,OpenStreetMap.Mapnik,Select basemap background from drop-down menu,https://leaflet-extras.github.io/leaflet-providers/preview/,,
+Basemap Tiles,Esri.WorldImagery,Select basemap background from drop-down menu,https://leaflet-extras.github.io/leaflet-providers/preview/,,
 Basemap Tiles2,,Additional map tile layer,Stamen.TonerHybrid,,
 Cluster Markers,off,"Display tightly-packed groups of markers as numbers, until zoomed in to view details.",,,
 Intro Popup Text,,Show intro text pop-up on startup (or leave blank),,,
